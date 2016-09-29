@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IncuBeerTor</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="new_profile">New Profile</string>
+    <string name="select_profile">Select Profile</string>
+    <string name="new_profile_name">Profile Name</string>
+    <string name="delete_profile">Delete Profile</string>
+    <string name="steps_time_heading">Time</string>
+    <string name="steps_temperature_heading">Temperature</string>
+    <string name="delete_step_button">Delete</string>
+    <string name="add_new_step_button">Add</string>
+    <string name="enter">Enter</string>
+    <string name="brew_button">BREW!</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="connect_button">Connect</string>
+
+    <string name="name">BT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
